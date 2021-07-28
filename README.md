@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ijoenk
-- 👀 I’m interested in new package
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I will teach you basic 
+- 💞️ I’m looking to collaborate on Facebook
+- 📫 How to reach me 
 
 <!---
 Ijoenk/Ijoenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
